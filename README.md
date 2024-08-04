@@ -1,4 +1,4 @@
-# Wasi-Session-Generator
+# ATHARVA-Session-Generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -9,10 +9,10 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/Itxxwasi">
-    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
+    <img src="" width="500">
      
 </a>
- <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{botssmaster}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
