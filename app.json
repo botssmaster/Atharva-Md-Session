@@ -1,9 +1,9 @@
 {
-    "name": "Wasi Session Generator",
+    "name": "IRO Session Generator",
     "description": "I'm Web Session Generator by Itxx Me Wasi",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
-    "keywords": ["@Xcelsama"],
+    "repository": "https://github.com/botssmaster/Atharva-MD-SESSION",
+    "keywords": ["@ironmanhindigaming"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
