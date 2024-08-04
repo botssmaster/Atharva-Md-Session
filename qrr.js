@@ -17,14 +17,14 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ┌───⭓『
-❒ *WASI-MD*
+❒ *ATHARVA-MD*
 ❒ _NOW DEPLOY IT_
 └────────────⭓
 ┌───⭓
 ❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/WASI-MD_
-❒ *Author:* _wa.me/923192173398_
-❒ *YT:* _https://youtube.com/@wasitech10_
+❒ *GitHub:* __https://github.com/botssmaster/Atharva-MD_
+❒ *Author:* _wa.me/919583612454_
+❒ *YT:* _https://youtube.com/@ironmanhindigaming_
 └────────────⭓
 `
 
@@ -76,7 +76,7 @@ if (fs.existsSync('./auth_info_baileys')) {
          // res.json({status:true,Scan_Id })
           console.log(`
 ====================  SESSION ID  ==========================                   
-SESSION-ID ==> ${Scan_Id}
+ATHARVA MD SESSION-ID ==> ${Scan_Id}
 -------------------   SESSION CLOSED   -----------------------
 `)
 
@@ -134,7 +134,7 @@ SESSION-ID ==> ${Scan_Id}
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
 
-    //// MADE BY ITXWASI
+    //// MADE BY IRONMAN
 
 });
 
