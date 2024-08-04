@@ -9,8 +9,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/botssmaster">
-    <img src="![IMG_20240804_205222](https://github.com/user-attachments/assets/f9f5039e-7d24-4415-a83e-115b87499d00)
-" width="500">
+    <img src="(https://iili.io/d5uj73v.jpg" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{botssmaster}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
